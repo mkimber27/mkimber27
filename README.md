@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Github Repository Frameworks</b>
-  - [Sim Firefighter Project]()
-  - [Praciting Github Systems](https://github.com/mkimber27/git_intro)
+  - [Sim Firefighter Project](https://github.com/mkimber27/sim_firefighter/blob/main/README.md) 🔥🌳
+  - [Praciting Github Systems](https://github.com/mkimber27/git_intro) 🐙
     
-<h2>Development Content:</h2>
+<h2>📦 Development Content:</h2>
 
   - [My Professional Blog](https://blogs.oregonstate.edu/kimber)
 
