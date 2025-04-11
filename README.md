@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Michael! <br/><a href="https://github.com/mkimber27">Programmer</a>, <a href="https://www.linkedin.com/in/m-kimber/">System Interaction Designer</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Github Repository Frameworks</b>
+  - [Praciting Github Systems](https://github.com/mkimber27/git_intro)
+    
+<h2>Development Content:</h2>
+
+  - [My Professional Blog](https://blogs.oregonstate.edu/kimber)
 
 <!--
 **mkimber27/mkimber27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
